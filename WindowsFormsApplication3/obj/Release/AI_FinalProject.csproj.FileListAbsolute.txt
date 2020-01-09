@@ -1,0 +1,9 @@
+D:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe.config
+D:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe
+D:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.pdb
+D:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.InputMessage.resources
+D:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+D:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\AI_FinalProject.csproj.GenerateResource.Cache
+D:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.exe
+D:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.pdb
+D:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\AI_FinalProject.csprojResolveAssemblyReference.cache
